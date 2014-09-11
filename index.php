@@ -89,7 +89,7 @@
   		  		
   		  	</div>
 	</section>
-	<!--<section id="Social">
+	<section id="Social">
 	<div class="container">
 		<div class="row">
 			<div class="social-box wordpress"><a class="social-icon wordpress" href="http://www.selectb.com">Select B</a></div>
@@ -99,7 +99,7 @@
 			<div class="social-box flickr"><a class="social-icon flickr" href="http://www.flickr.com">Flickr</a></div>	
 		</div>
 	</div>
-	</section> -->
+	</section>
 		<section id="Feeds">
 		<div id="MasonryContainer" class="container">
 			
@@ -126,6 +126,16 @@
                         <li>Responsible for being an advocate for UX process/li>
 					</ul>
 				</div>
+			</div>
+		</div>
+	</section>
+        
+        <section id="Photography">
+		<div class="container">
+			<div class="row">
+				<!--<h1>Experience</h1>-->
+				<h1>Photography</h1>
+				<p>I love photography. It's great!</p>
 			</div>
 		</div>
 	</section>

@@ -121,9 +121,10 @@
 				</div>
 				<div class="job">
 					<h2>Digital Experience Director</h2>
-				</div>
-				<div class="job">
-					<h2>Interactive Development Manager</h2>
+                    <ul>
+						<li>Lead UX efforts</li>
+                        <li>Responsible for being an advocate for UX process/li>
+					</ul>
 				</div>
 			</div>
 		</div>
